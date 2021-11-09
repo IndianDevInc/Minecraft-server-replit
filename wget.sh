@@ -1,0 +1,2 @@
+read url
+wget $url

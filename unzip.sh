@@ -1,0 +1,2 @@
+read zip
+unzip $zip

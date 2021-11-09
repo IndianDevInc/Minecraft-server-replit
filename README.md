@@ -40,6 +40,15 @@ java -Xmx1G -Xms1G -jar paper-1.17.1.jar nogui
 ```
 ./ngrok tcp 25565
 ```
+8. You will see like this
+![Image](https://github.com/IndianDevInc/Minecraft-server-replit/blob/main/e.PNG?raw=true)
+your ip will be :- 6.tcp.ngrok.io:18405 this
+
+Thank's
+
+Any issue join discord
+https://dsc.gg/team-ic
+
 
 
 
